@@ -1,0 +1,44 @@
+
+//Solution and Insights//
+
+INSIGHTS:
+
+1.SALES BY segment ARE HIGH IN MOSTLY CONSUSMER ,CORPORATE ,HOME office
+
+2.MOSTLY PEOPLE PREFER COD AND ONLINE payment MODE (LESS IN CARD MODE SO YOU CAN APPLY OFFER specific CARD COMAPNY AND GIVES OFF)
+
+3.MOST SOLD product ARE PHONE,STORAGE,TABLES .
+
+4.PEOPLE MOSTLY PREFER STANDARD CLASS AND SECOND CLASSS MODE OF Delivery.
+
+5.Most contributing states are Washingtton, Virginia, Wisconsin.
+
+6.profit is MOSTLY high in 2019 as compare to 2020 in month of 
+  may,july,september,november,december.
+
+7.sales are high in 2020 and profit is low  as compare to 2019
+
+8.Total sales is 1.5 million
+
+9.Total quantity 21k
+
+10.Total sales 160k
+
+11.Avg delivery days is 4
+
+12.Also done the forecasting of upcoming 15 days of last 2 year data, its quite balanced sales
+
+
+SUGGESTION:
+
+1.Focus on consumer and corporate more either by creating good contacts and good communication or by offers ,however keep them connected
+
+2.can give offer on card payment 
+
+3.keep in mind the availablity of phone ,furtuniers and tables should be high
+
+4.focus on these three states more Washingtton, Virginia, Wisconsin.
+
+5.be more active in this months may,july,september,nov,december  also in other month by APPLYING offers 
+
+6.Increse the marketing of product in websites,also in other states.

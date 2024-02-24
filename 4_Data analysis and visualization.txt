@@ -1,0 +1,55 @@
+
+.......................................................//Dashboard//...................................................................
+
+1.choose the laypout colur or wallpaper
+
+2.Initially I wanted sales based on category
+>using bar chart i drag the category in rows and sales in values
+>Then I formated the bar chart by colur,border ,14px,shadows,effects,text,font,legend,bar TYpe etc....
+
+3.Then i wanted sales based on sub-category
+>>using bar chart i drag the sub-category in rows and sales in values
+>as there are multi rows ,so apply filter top N 5,based on sub category.
+>copy paste the the same for do not repeting the same format
+>using bar chart>then will format it by colur,border ,14px,shadows,effects,text etc....
+
+4. The needed sales by ship or delivery mode
+>as we copied the visuals selected that changed the header and values by ship mode.
+
+5.Then required sales by Date month wise between both the Year
+>formated it by month or quater or year
+>Remove year from x axis also qurter by hirarchy accordingly
+>bring date to legend to get the comaprsion and here selct the year 
+
+6.Same i wanted profit by year of year to comapre 
+>followed same process
+
+7.After that state wise sales,and other tool tips using map needed to get the info state wise.
+>format it size,colur,map TYpe,tooltip,etc.
+
+8.Then sum of sales by customer segment
+>like consumer,corporate,home office etc , by doughnut chart  and Formated it.
+
+9.Then sum of sales by payment mode
+>like cod,card,online etc , by doughnut chart  anf formated it in detail.
+
+10.Then add the slicer based on region
+>like,east ,west ,north,south,centrel
+>format it tile it.
+
+
+11.Late i used single card kpi to highlights the data
+>>sum of sales,then formated it with text,size,font,colur,shadow,px.etc
+>>sum of quantity,then formated it with text,size,font,colur,shadow,px.etc
+>>sum of profit,then formated it with text,size,font,colur,shadow,px.etc
+
+>>Then Avg of delivery days
+>>so here will use dax queries and function to create new column required
+>>goto new column
+>>dax functi0n >> avg delivery day =DATEDIFF('order date,'ship date,day)//dated iff gives the difference
+
+Avg Delivery day = DATEDIFF('superstore_DAta'[Order Date],'superstore_DAta'[Ship Date],DAY)
+
+>>After getting The values visualize the sale by deliver day the convert its sum to Avg.
+
+

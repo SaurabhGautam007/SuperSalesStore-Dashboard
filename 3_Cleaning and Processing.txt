@@ -1,0 +1,19 @@
+//Cleaning Process//
+
+Data info.
+we have data in csv format after loading.
+>The column was 21
+>The Rows was 5009.
+
+1.Loaded the dataset into power bi then through Power query editor went with cleaning Process, whatever required.
+
+2.Then cleaning the data
+
+>replacing the value.
+>deleteting uncessery column
+>detecting and changing the suitable datatype
+>deleteting rows ,deleteting error etc.
+>change date format accordingly 
+>check the blank rows,
+>detect null values
+>replace #N/A value

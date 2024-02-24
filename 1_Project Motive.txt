@@ -1,0 +1,35 @@
+OBJECTIVE : TO contribute to the success of a business by utilizing data analysis techniques,
+specially focusing on - time series analysis ,sales forecasting
+to provide valuable insights
+
+SALES FORECASTING ->IT is the process of estimating or predicting future revenue by predicting how much of product or service will sell 
+in the next  week ,month,quarter or year
+
+TIME SERIES ANALYSIS: time series analysis is a specific way of analyzing a sequence of data point collect over an interval of time
+
+scope:
+>Reason of less sales
+>Reason of less profit
+>states wise sales and profit
+>product wise sales and profit
+>segment wise sales and profit
+>Delivery platform wise sales and profit
+>insights where we are lagging
+>sugeestion to improve all this.
+
+
+****************************************************************************************************************************
+
+The project created by me using a very know visualization tool called as Power BI. The project was about to get the insights for more profit and sales.
+
+Then I go with the ;
+1. Gathering and collecting of data and understanding the business problem with the company.
+2. Then I went with loading the data ,cleaning the data and transforming or processing the data.
+3.Then I started Analysing by making the visuals and charts ,graphs etc. from required data.
+4.Later I started working with final report Dashboard:
+> where I calculated some measures for kpis visuals .
+> By analysis I created a charts, by which I was getting some insights from every chart
+>Header, Slicers, Metrics table are also made for detail info etc too.
+>Also forecasting is done for predicting upcoming sales based on previous data.
+
+

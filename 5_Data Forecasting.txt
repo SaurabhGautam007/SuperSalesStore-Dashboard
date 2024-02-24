@@ -1,0 +1,37 @@
+
+......................................................//FORECASTING//.............................................................
+>Take another sheet2
+>use line chart coz itz only applicable in the line chart
+
+FORECASTING:is depend upon time series
+>so i dragged order date in x axis
+>and in y axix sum of sales
+>then i removed all year,month,qurter keep and right click order by date as per requirement
+>then from format section ,
+>click on search analytic >on forecasting
+
+forecasting setting:
+>forecast length >how many days or quarter or month 
+>confidence interval > that how much you are conident about your data.
+>seasonaltiy either add one or leve one from day ,month etc
+
+>when we hover it it will predict and give tooltip sales values of upcoming 15 days
+>we can add slider to zoom it 
+
+>to make it more readbale >right clck>view as table
+>in that it will show in detail
+
+********************************************************************************************************************
+USING DAX QUERY ,APPLYING aggregation on time series,we can create new table
+>like we will not get repeted value of date ,and the things related to same date will addd up and give the output
+
+>adding up comman dates together to show sales date wise.
+>go to table tool>new table>dax function
+
+Salesforecast = SUMMARIZE('superstore_DAta','superstore_DAta'[Order Date],"Total sales",SUM(superstore_DAta[Sales]))
+
+****************************************************************************************************************************
+
+15.I also made sum of sales by region USING doughnut for higher granularity.
+16.Then created sum of sales by states top 5.
+17.Also in forecasting added slider to zoom and get more detail and all this is in same page.
